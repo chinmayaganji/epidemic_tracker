@@ -20,4 +20,4 @@ A website which can be used to track the affect of a epidemic out-break in RealT
  
 # ScreenShots
 
-<img src=""Capture.png/>
+<img src="Capture.png"/>
