@@ -18,3 +18,6 @@ A website which can be used to track the affect of a epidemic out-break in RealT
  The Details will be updated on the map.
  User can Subscribe to our site to get personalized Notifications.
  
+# ScreenShots
+
+<img src=""Capture.png/>
