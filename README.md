@@ -8,4 +8,7 @@ A website which can be used to track the affect of a epidemic out-break in RealT
 3. I have used OneSignal API to send  Notifications to the subscribers
 
 
-# things you need to do 
+# Things you need to do :
+ 1.If you are running locally install wamp or xamp.
+ 2.Change your hostname,database_name and password in the php files.
+ 3.you have import my database schema which .sql file given above.
